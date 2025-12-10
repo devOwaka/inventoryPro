@@ -74,10 +74,10 @@ After logging in, you’ll be taken directly to your **Dashboard**.
 
 The dashboard gives you a quick overview of your inventory:
 
-* **Total Products** — how many items you’re tracking
-* **Low Stock Items** — products running low
-* **Quick Search** — find products instantly
-* **Recent Changes** — see what was recently updated
+* **Total Products** - how many items you’re tracking
+* **Low Stock Items** - products running low
+* **Quick Search** - find products instantly
+* **Recent Changes** - see what was recently updated
 
 This page helps you understand your inventory health at a glance.
 
@@ -92,7 +92,7 @@ To begin tracking your inventory:
    * Name
    * Category
    * Quantity
-   * Description (optional)
+   * Description
 4. Click **Save**.
 
 Your product will now appear in your inventory list.
@@ -145,11 +145,11 @@ This helps prevent stockouts and keeps your operations smooth.
 (You can always add it back later.)
 
 # Why Businesses Love Inventory-Pro
-* Saves time — update inventory in seconds
-* Reduces mistakes — no more outdated spreadsheets
-* Improves accuracy — real-time stock tracking
-* Increases efficiency — everything organized and centralized
-* Accessible anywhere — works on phone, tablet, or computer
+* Saves time - update inventory in seconds
+* Reduces mistakes - no more outdated spreadsheets
+* Improves accuracy - real-time stock tracking
+* Increases efficiency - everything organized and centralized
+* Accessible anywhere - works on phone, tablet, or computer
 
 # Tips for New Users
 
