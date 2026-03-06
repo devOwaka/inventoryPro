@@ -2,7 +2,7 @@
 
 Welcome to **Inventory-Pro**, a simple, modern, and efficient web-based inventory management platform created to help businesses keep track of products, stock levels, and daily operations without the complexity of traditional inventory systems.
 
-Whether you're a small business owner, warehouse manager, or retail operator, Inventory-Pro gives you the tools you need to stay organized, reduce errors, and keep your inventory under control — all in one place.
+Whether you're a small business owner, warehouse manager, or retail operator, Inventory-Pro gives you the tools you need to stay organized, reduce errors, and keep your inventory under control; all in one place.
 
 # Accessing the Platform
 
