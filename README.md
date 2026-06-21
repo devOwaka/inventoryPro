@@ -142,8 +142,6 @@ This helps prevent stockouts and keeps your operations smooth.
 2. Click **Delete**
 3. Confirm
 
-(You can always add it back later.)
-
 # Why Businesses Love Inventory-Pro
 * Saves time - update inventory in seconds
 * Reduces mistakes - no more outdated spreadsheets
